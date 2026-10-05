@@ -12,6 +12,7 @@
       "rozmiar": 4006352,
       "url": "https://github.com/tomaszklin/on-the-road/releases/download/budapeszt-2026/budapeszt-2026.zip",
       "pliki_url": "https://github.com/tomaszklin/on-the-road/releases/download/budapeszt-2026/files.json",
+      "koniec": "2026-11-07",
       "cover": "https://github.com/tomaszklin/on-the-road/releases/download/budapeszt-2026/cover.jpg?v=1791234152"
     },
     {
@@ -24,6 +25,7 @@
       "rozmiar": 5940955,
       "url": "https://github.com/tomaszklin/on-the-road/releases/download/chatka-sylwestrowa-2026/chatka-sylwestrowa-2026.zip",
       "pliki_url": "https://github.com/tomaszklin/on-the-road/releases/download/chatka-sylwestrowa-2026/files.json",
+      "koniec": "2026-10-25",
       "cover": "https://github.com/tomaszklin/on-the-road/releases/download/chatka-sylwestrowa-2026/cover.jpg?v=1791235954"
     },
     {
@@ -36,14 +38,15 @@
       "rozmiar": 27562952,
       "url": "https://github.com/tomaszklin/on-the-road/releases/download/paryz-2026/paryz-2026.zip",
       "pliki_url": "https://github.com/tomaszklin/on-the-road/releases/download/paryz-2026/files.json",
+      "koniec": "2026-10-05",
       "archiwalna": true,
       "cover": "https://github.com/tomaszklin/on-the-road/releases/download/paryz-2026/cover.jpg?v=1791234126"
     }
   ],
   "apka": {
-    "kod": 19,
-    "nazwa": "0.1.18",
+    "kod": 20,
+    "nazwa": "0.1.19",
     "data": "2026-10-05",
-    "url": "https://github.com/tomaszklin/on-the-road/releases/download/app-v0.1.18/on-the-road-0.1.18.apk"
+    "url": "https://github.com/tomaszklin/on-the-road/releases/download/app-v0.1.19/on-the-road-0.1.19.apk"
   }
 }
