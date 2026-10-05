@@ -7,9 +7,9 @@
       "tytul": "Budapeszt 2026",
       "miasto": "Budapeszt",
       "podtytul": "5–7 listopada 2026",
-      "wersja": 1791231387,
+      "wersja": 1791234152,
       "data": "2026-10-05",
-      "rozmiar": 4005579,
+      "rozmiar": 4006352,
       "url": "https://github.com/tomaszklin/on-the-road/releases/download/budapeszt-2026/budapeszt-2026.zip",
       "pliki_url": "https://github.com/tomaszklin/on-the-road/releases/download/budapeszt-2026/files.json",
       "cover": "https://github.com/tomaszklin/on-the-road/releases/download/budapeszt-2026/cover.jpg"
@@ -19,9 +19,9 @@
       "tytul": "Chatka Sylwestrowa 2026",
       "miasto": "Góry Bystrzyckie",
       "podtytul": "24–25 października 2026 · Jagodna 977 m",
-      "wersja": 1791233543,
+      "wersja": 1791234160,
       "data": "2026-10-05",
-      "rozmiar": 1726031,
+      "rozmiar": 1726342,
       "url": "https://github.com/tomaszklin/on-the-road/releases/download/chatka-sylwestrowa-2026/chatka-sylwestrowa-2026.zip",
       "pliki_url": "https://github.com/tomaszklin/on-the-road/releases/download/chatka-sylwestrowa-2026/files.json",
       "cover": "https://github.com/tomaszklin/on-the-road/releases/download/chatka-sylwestrowa-2026/cover.jpg"
@@ -31,18 +31,18 @@
       "tytul": "Paryż 2026",
       "miasto": "Paryż",
       "podtytul": "1–5 października 2026 · 2 dorosłych + 17-latek",
-      "wersja": 1791231398,
+      "wersja": 1791234126,
       "data": "2026-10-05",
-      "rozmiar": 27560944,
+      "rozmiar": 27562952,
       "url": "https://github.com/tomaszklin/on-the-road/releases/download/paryz-2026/paryz-2026.zip",
       "pliki_url": "https://github.com/tomaszklin/on-the-road/releases/download/paryz-2026/files.json",
       "cover": "https://github.com/tomaszklin/on-the-road/releases/download/paryz-2026/cover.jpg"
     }
   ],
   "apka": {
-    "kod": 15,
-    "nazwa": "0.1.14",
+    "kod": 16,
+    "nazwa": "0.1.15",
     "data": "2026-10-05",
-    "url": "https://github.com/tomaszklin/on-the-road/releases/download/app-v0.1.14/on-the-road-0.1.14.apk"
+    "url": "https://github.com/tomaszklin/on-the-road/releases/download/app-v0.1.15/on-the-road-0.1.15.apk"
   }
 }
