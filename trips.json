@@ -1,0 +1,16 @@
+{
+  "format": 1,
+  "zaktualizowano": "2026-10-05",
+  "podroze": [
+    {
+      "slug": "paryz-2026",
+      "tytul": "Paryż 2026",
+      "miasto": "Paryż",
+      "podtytul": "1–5 października 2026 · 2 dorosłych + 17-latek",
+      "wersja": 1791174741,
+      "data": "2026-10-05",
+      "rozmiar": 27401003,
+      "url": "https://github.com/tomaszklin/on-the-road/releases/download/paryz-2026/paryz-2026.zip"
+    }
+  ]
+}
