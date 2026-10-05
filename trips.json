@@ -15,6 +15,18 @@
       "cover": "https://github.com/tomaszklin/on-the-road/releases/download/budapeszt-2026/cover.jpg"
     },
     {
+      "slug": "chatka-sylwestrowa-2026",
+      "tytul": "Chatka Sylwestrowa 2026",
+      "miasto": "Góry Bystrzyckie",
+      "podtytul": "24–25 października 2026 · Jagodna 977 m",
+      "wersja": 1791233543,
+      "data": "2026-10-05",
+      "rozmiar": 1726031,
+      "url": "https://github.com/tomaszklin/on-the-road/releases/download/chatka-sylwestrowa-2026/chatka-sylwestrowa-2026.zip",
+      "pliki_url": "https://github.com/tomaszklin/on-the-road/releases/download/chatka-sylwestrowa-2026/files.json",
+      "cover": "https://github.com/tomaszklin/on-the-road/releases/download/chatka-sylwestrowa-2026/cover.jpg"
+    },
+    {
       "slug": "paryz-2026",
       "tytul": "Paryż 2026",
       "miasto": "Paryż",
@@ -28,9 +40,9 @@
     }
   ],
   "apka": {
-    "kod": 14,
-    "nazwa": "0.1.13",
+    "kod": 15,
+    "nazwa": "0.1.14",
     "data": "2026-10-05",
-    "url": "https://github.com/tomaszklin/on-the-road/releases/download/app-v0.1.13/on-the-road-0.1.13.apk"
+    "url": "https://github.com/tomaszklin/on-the-road/releases/download/app-v0.1.14/on-the-road-0.1.14.apk"
   }
 }
