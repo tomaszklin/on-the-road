@@ -7,9 +7,9 @@
       "tytul": "Budapeszt 2026",
       "miasto": "Budapeszt",
       "podtytul": "5–7 listopada 2026",
-      "wersja": 1791197745,
+      "wersja": 1791203949,
       "data": "2026-10-05",
-      "rozmiar": 2670792,
+      "rozmiar": 2676420,
       "url": "https://github.com/tomaszklin/on-the-road/releases/download/budapeszt-2026/budapeszt-2026.zip"
     },
     {
@@ -17,16 +17,16 @@
       "tytul": "Paryż 2026",
       "miasto": "Paryż",
       "podtytul": "1–5 października 2026 · 2 dorosłych + 17-latek",
-      "wersja": 1791197749,
+      "wersja": 1791203953,
       "data": "2026-10-05",
-      "rozmiar": 26952046,
+      "rozmiar": 27404622,
       "url": "https://github.com/tomaszklin/on-the-road/releases/download/paryz-2026/paryz-2026.zip"
     }
   ],
   "apka": {
-    "kod": 4,
-    "nazwa": "0.1.3",
+    "kod": 5,
+    "nazwa": "0.1.4",
     "data": "2026-10-05",
-    "url": "https://github.com/tomaszklin/on-the-road/releases/download/app-v0.1.3/on-the-road-0.1.3.apk"
+    "url": "https://play.google.com/store/apps/details?id=com.tomaszklin.ontheroad"
   }
 }
