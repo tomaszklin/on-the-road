@@ -36,13 +36,14 @@
       "rozmiar": 27562952,
       "url": "https://github.com/tomaszklin/on-the-road/releases/download/paryz-2026/paryz-2026.zip",
       "pliki_url": "https://github.com/tomaszklin/on-the-road/releases/download/paryz-2026/files.json",
+      "archiwalna": true,
       "cover": "https://github.com/tomaszklin/on-the-road/releases/download/paryz-2026/cover.jpg?v=1791234126"
     }
   ],
   "apka": {
-    "kod": 18,
-    "nazwa": "0.1.17",
+    "kod": 19,
+    "nazwa": "0.1.18",
     "data": "2026-10-05",
-    "url": "https://github.com/tomaszklin/on-the-road/releases/download/app-v0.1.17/on-the-road-0.1.17.apk"
+    "url": "https://github.com/tomaszklin/on-the-road/releases/download/app-v0.1.18/on-the-road-0.1.18.apk"
   }
 }
