@@ -24,9 +24,9 @@
     }
   ],
   "apka": {
-    "kod": 1,
-    "nazwa": "0.1.0",
+    "kod": 2,
+    "nazwa": "0.1.1",
     "data": "2026-10-05",
-    "url": "https://github.com/tomaszklin/on-the-road/releases/download/app-v0.1.0/on-the-road-0.1.0.apk"
+    "url": "https://github.com/tomaszklin/on-the-road/releases/download/app-v0.1.1/on-the-road-0.1.1.apk"
   }
 }
