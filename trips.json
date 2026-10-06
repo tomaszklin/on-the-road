@@ -7,26 +7,26 @@
       "tytul": "Budapeszt 2026",
       "miasto": "Budapeszt",
       "podtytul": "5–7 listopada 2026 · 2 dorosłych + 16-latek i 13-latka",
-      "wersja": 1791239914,
+      "wersja": 1791301862,
       "data": "2026-10-06",
-      "rozmiar": 18230921,
+      "rozmiar": 18231825,
       "url": "https://github.com/tomaszklin/on-the-road/releases/download/budapeszt-2026/budapeszt-2026.zip",
       "pliki_url": "https://github.com/tomaszklin/on-the-road/releases/download/budapeszt-2026/files.json",
       "koniec": "2026-11-07",
-      "cover": "https://github.com/tomaszklin/on-the-road/releases/download/budapeszt-2026/cover.jpg?v=1791239914"
+      "cover": "https://github.com/tomaszklin/on-the-road/releases/download/budapeszt-2026/cover.jpg?v=1791301862"
     },
     {
       "slug": "chatka-sylwestrowa-2026",
       "tytul": "Chatka Sylwestrowa 2026",
       "miasto": "Góry Bystrzyckie",
       "podtytul": "24–25 października 2026 · Jagodna 977 m",
-      "wersja": 1791235954,
-      "data": "2026-10-05",
-      "rozmiar": 5940955,
+      "wersja": 1791301847,
+      "data": "2026-10-06",
+      "rozmiar": 5941477,
       "url": "https://github.com/tomaszklin/on-the-road/releases/download/chatka-sylwestrowa-2026/chatka-sylwestrowa-2026.zip",
       "pliki_url": "https://github.com/tomaszklin/on-the-road/releases/download/chatka-sylwestrowa-2026/files.json",
       "koniec": "2026-10-25",
-      "cover": "https://github.com/tomaszklin/on-the-road/releases/download/chatka-sylwestrowa-2026/cover.jpg?v=1791235954"
+      "cover": "https://github.com/tomaszklin/on-the-road/releases/download/chatka-sylwestrowa-2026/cover.jpg?v=1791301847"
     },
     {
       "slug": "paryz-2026",
@@ -44,9 +44,9 @@
     }
   ],
   "apka": {
-    "kod": 20,
-    "nazwa": "0.1.19",
+    "kod": 21,
+    "nazwa": "0.1.20",
     "data": "2026-10-06",
-    "url": "https://github.com/tomaszklin/on-the-road/releases/download/app-v0.1.19/on-the-road-0.1.19.apk"
+    "url": "https://github.com/tomaszklin/on-the-road/releases/download/app-v0.1.20/on-the-road-0.1.20.apk"
   }
 }
