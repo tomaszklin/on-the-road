@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "zaktualizowano": "2026-10-06",
+  "zaktualizowano": "2026-10-11",
   "podroze": [
     {
       "slug": "budapeszt-2026",
@@ -41,12 +41,24 @@
       "koniec": "2026-10-05",
       "archiwalna": true,
       "cover": "https://github.com/tomaszklin/on-the-road/releases/download/paryz-2026/cover.jpg?v=1791234126"
+    },
+    {
+      "slug": "praga-2027",
+      "tytul": "Praga 2027",
+      "miasto": "Praga",
+      "podtytul": "23–27 stycznia 2027 · 2 dorosłych + dzieci 16 i 13 lat",
+      "wersja": 1791671321,
+      "data": "2026-10-11",
+      "rozmiar": 13982,
+      "url": "https://github.com/tomaszklin/on-the-road/releases/download/praga-2027/praga-2027.zip",
+      "pliki_url": "https://github.com/tomaszklin/on-the-road/releases/download/praga-2027/files.json",
+      "koniec": "2027-01-27"
     }
   ],
   "apka": {
     "kod": 22,
     "nazwa": "0.1.21",
-    "data": "2026-10-06",
+    "data": "2026-10-11",
     "url": "https://github.com/tomaszklin/on-the-road/releases/download/app-v0.1.21/on-the-road-0.1.21.apk"
   }
 }
