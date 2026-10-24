@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "zaktualizowano": "2026-10-23",
+  "zaktualizowano": "2026-10-24",
   "podroze": [
     {
       "slug": "budapeszt-2026",
@@ -61,9 +61,9 @@
     }
   ],
   "apka": {
-    "kod": 29,
-    "nazwa": "0.1.28",
-    "data": "2026-10-23",
-    "url": "https://github.com/tomaszklin/on-the-road/releases/download/app-v0.1.28/on-the-road-0.1.28.apk"
+    "kod": 30,
+    "nazwa": "0.1.29",
+    "data": "2026-10-24",
+    "url": "https://github.com/tomaszklin/on-the-road/releases/download/app-v0.1.29/on-the-road-0.1.29.apk"
   }
 }
