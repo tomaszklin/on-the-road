@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "zaktualizowano": "2026-10-29",
+  "zaktualizowano": "2026-10-30",
   "podroze": [
     {
       "slug": "budapeszt-2026",
@@ -36,14 +36,14 @@
       "tytul": "Gruzja 2027",
       "miasto": "Gruzja",
       "podtytul": "4–15 sierpnia 2027 · Swanetia i Morze Czarne · dwie rodziny, 9 osób",
-      "wersja": 1793229446,
-      "data": "2026-10-29",
-      "rozmiar": 2127344,
+      "wersja": 1793382355,
+      "data": "2026-10-30",
+      "rozmiar": 3343123,
       "url": "https://github.com/tomaszklin/on-the-road/releases/download/gruzja-2027/gruzja-2027.zip",
       "pliki_url": "https://github.com/tomaszklin/on-the-road/releases/download/gruzja-2027/files.json",
       "poczatek": "2027-08-04",
       "koniec": "2027-08-15",
-      "cover": "https://github.com/tomaszklin/on-the-road/releases/download/gruzja-2027/cover.jpg?v=1793229446"
+      "cover": "https://github.com/tomaszklin/on-the-road/releases/download/gruzja-2027/cover.jpg?v=1793382355"
     },
     {
       "slug": "paryz-2026",
@@ -78,7 +78,7 @@
   "apka": {
     "kod": 30,
     "nazwa": "0.1.29",
-    "data": "2026-10-29",
+    "data": "2026-10-30",
     "url": "https://github.com/tomaszklin/on-the-road/releases/download/app-v0.1.29/on-the-road-0.1.29.apk"
   }
 }
