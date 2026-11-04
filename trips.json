@@ -7,43 +7,43 @@
       "tytul": "Budapeszt 2026",
       "miasto": "Budapeszt",
       "podtytul": "5–7 listopada 2026 · 2 dorosłych + 16-latek i 13-latka",
-      "wersja": 1793774954,
+      "wersja": 1793775386,
       "data": "2026-11-04",
-      "rozmiar": 17122853,
+      "rozmiar": 17122960,
       "url": "https://github.com/tomaszklin/on-the-road/releases/download/budapeszt-2026/budapeszt-2026.zip",
       "pliki_url": "https://github.com/tomaszklin/on-the-road/releases/download/budapeszt-2026/files.json",
       "poczatek": "2026-11-05",
       "koniec": "2026-11-07",
-      "cover": "https://github.com/tomaszklin/on-the-road/releases/download/budapeszt-2026/cover.jpg?v=1793774954"
+      "cover": "https://github.com/tomaszklin/on-the-road/releases/download/budapeszt-2026/cover.jpg?v=1793775386"
     },
     {
       "slug": "chatka-sylwestrowa-2026",
       "tytul": "Chatka Sylwestrowa 2026",
       "miasto": "Góry Bystrzyckie",
       "podtytul": "24–25 października 2026 · Jagodna 977 m",
-      "wersja": 1792823331,
-      "data": "2026-10-24",
-      "rozmiar": 18133439,
+      "wersja": 1793775297,
+      "data": "2026-11-04",
+      "rozmiar": 18133494,
       "url": "https://github.com/tomaszklin/on-the-road/releases/download/chatka-sylwestrowa-2026/chatka-sylwestrowa-2026.zip",
       "pliki_url": "https://github.com/tomaszklin/on-the-road/releases/download/chatka-sylwestrowa-2026/files.json",
       "poczatek": "2026-10-24",
       "koniec": "2026-10-25",
       "archiwalna": true,
-      "cover": "https://github.com/tomaszklin/on-the-road/releases/download/chatka-sylwestrowa-2026/cover.jpg?v=1792823331"
+      "cover": "https://github.com/tomaszklin/on-the-road/releases/download/chatka-sylwestrowa-2026/cover.jpg?v=1793775297"
     },
     {
       "slug": "gruzja-2027",
       "tytul": "Gruzja 2027",
       "miasto": "Gruzja",
       "podtytul": "4–15 sierpnia 2027 · Swanetia i Morze Czarne · dwie rodziny, 9 osób",
-      "wersja": 1793385525,
-      "data": "2026-10-30",
-      "rozmiar": 3349568,
+      "wersja": 1793775224,
+      "data": "2026-11-04",
+      "rozmiar": 3349793,
       "url": "https://github.com/tomaszklin/on-the-road/releases/download/gruzja-2027/gruzja-2027.zip",
       "pliki_url": "https://github.com/tomaszklin/on-the-road/releases/download/gruzja-2027/files.json",
       "poczatek": "2027-08-04",
       "koniec": "2027-08-15",
-      "cover": "https://github.com/tomaszklin/on-the-road/releases/download/gruzja-2027/cover.jpg?v=1793385525"
+      "cover": "https://github.com/tomaszklin/on-the-road/releases/download/gruzja-2027/cover.jpg?v=1793775224"
     },
     {
       "slug": "paryz-2026",
@@ -65,20 +65,20 @@
       "tytul": "Praga 2027",
       "miasto": "Praga",
       "podtytul": "23–27 stycznia 2027 · 2 dorosłych + dzieci 16 i 13 lat",
-      "wersja": 1793774971,
+      "wersja": 1793775367,
       "data": "2026-11-04",
-      "rozmiar": 42255834,
+      "rozmiar": 42255899,
       "url": "https://github.com/tomaszklin/on-the-road/releases/download/praga-2027/praga-2027.zip",
       "pliki_url": "https://github.com/tomaszklin/on-the-road/releases/download/praga-2027/files.json",
       "poczatek": "2027-01-23",
       "koniec": "2027-01-27",
-      "cover": "https://github.com/tomaszklin/on-the-road/releases/download/praga-2027/cover.jpg?v=1793774971"
+      "cover": "https://github.com/tomaszklin/on-the-road/releases/download/praga-2027/cover.jpg?v=1793775367"
     }
   ],
   "apka": {
-    "kod": 31,
-    "nazwa": "0.1.30",
+    "kod": 32,
+    "nazwa": "0.1.31",
     "data": "2026-11-04",
-    "url": "https://github.com/tomaszklin/on-the-road/releases/download/app-v0.1.30/on-the-road-0.1.30.apk"
+    "url": "https://github.com/tomaszklin/on-the-road/releases/download/app-v0.1.31/on-the-road-0.1.31.apk"
   }
 }
