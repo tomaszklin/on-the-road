@@ -7,14 +7,14 @@
       "tytul": "Budapeszt 2026",
       "miasto": "Budapeszt",
       "podtytul": "5–7 listopada 2026 · 2 dorosłych + 16-latek i 13-latka",
-      "wersja": 1793774604,
+      "wersja": 1793774954,
       "data": "2026-11-04",
-      "rozmiar": 17122796,
+      "rozmiar": 17122853,
       "url": "https://github.com/tomaszklin/on-the-road/releases/download/budapeszt-2026/budapeszt-2026.zip",
       "pliki_url": "https://github.com/tomaszklin/on-the-road/releases/download/budapeszt-2026/files.json",
       "poczatek": "2026-11-05",
       "koniec": "2026-11-07",
-      "cover": "https://github.com/tomaszklin/on-the-road/releases/download/budapeszt-2026/cover.jpg?v=1793774604"
+      "cover": "https://github.com/tomaszklin/on-the-road/releases/download/budapeszt-2026/cover.jpg?v=1793774954"
     },
     {
       "slug": "chatka-sylwestrowa-2026",
@@ -65,20 +65,20 @@
       "tytul": "Praga 2027",
       "miasto": "Praga",
       "podtytul": "23–27 stycznia 2027 · 2 dorosłych + dzieci 16 i 13 lat",
-      "wersja": 1791716719,
-      "data": "2026-10-11",
-      "rozmiar": 42255722,
+      "wersja": 1793774971,
+      "data": "2026-11-04",
+      "rozmiar": 42255834,
       "url": "https://github.com/tomaszklin/on-the-road/releases/download/praga-2027/praga-2027.zip",
       "pliki_url": "https://github.com/tomaszklin/on-the-road/releases/download/praga-2027/files.json",
       "poczatek": "2027-01-23",
       "koniec": "2027-01-27",
-      "cover": "https://github.com/tomaszklin/on-the-road/releases/download/praga-2027/cover.jpg?v=1791716719"
+      "cover": "https://github.com/tomaszklin/on-the-road/releases/download/praga-2027/cover.jpg?v=1793774971"
     }
   ],
   "apka": {
-    "kod": 30,
-    "nazwa": "0.1.29",
+    "kod": 31,
+    "nazwa": "0.1.30",
     "data": "2026-11-04",
-    "url": "https://github.com/tomaszklin/on-the-road/releases/download/app-v0.1.29/on-the-road-0.1.29.apk"
+    "url": "https://github.com/tomaszklin/on-the-road/releases/download/app-v0.1.30/on-the-road-0.1.30.apk"
   }
 }
