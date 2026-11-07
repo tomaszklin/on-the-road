@@ -1,20 +1,20 @@
 {
   "format": 1,
-  "zaktualizowano": "2026-11-06",
+  "zaktualizowano": "2026-11-07",
   "podroze": [
     {
       "slug": "budapeszt-2026",
       "tytul": "Budapeszt 2026",
       "miasto": "Budapeszt",
       "podtytul": "5–7 listopada 2026 · 2 dorosłych + 16-latek i 13-latka",
-      "wersja": 1793996337,
-      "data": "2026-11-06",
-      "rozmiar": 34840829,
+      "wersja": 1794040489,
+      "data": "2026-11-07",
+      "rozmiar": 34841263,
       "url": "https://github.com/tomaszklin/on-the-road/releases/download/budapeszt-2026/budapeszt-2026.zip",
       "pliki_url": "https://github.com/tomaszklin/on-the-road/releases/download/budapeszt-2026/files.json",
       "poczatek": "2026-11-05",
       "koniec": "2026-11-07",
-      "cover": "https://github.com/tomaszklin/on-the-road/releases/download/budapeszt-2026/cover.jpg?v=1793996337"
+      "cover": "https://github.com/tomaszklin/on-the-road/releases/download/budapeszt-2026/cover.jpg?v=1794040489"
     },
     {
       "slug": "chatka-sylwestrowa-2026",
@@ -78,7 +78,7 @@
   "apka": {
     "kod": 36,
     "nazwa": "0.1.35",
-    "data": "2026-11-06",
+    "data": "2026-11-07",
     "url": "https://github.com/tomaszklin/on-the-road/releases/download/app-v0.1.35/on-the-road-0.1.35.apk"
   }
 }
