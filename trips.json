@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "zaktualizowano": "2026-11-15",
+  "zaktualizowano": "2026-11-20",
   "podroze": [
     {
       "slug": "budapeszt-2026",
@@ -73,13 +73,14 @@
       "pliki_url": "https://github.com/tomaszklin/on-the-road/releases/download/praga-2027/files.json",
       "poczatek": "2027-01-23",
       "koniec": "2027-01-27",
+      "archiwalna": true,
       "cover": "https://github.com/tomaszklin/on-the-road/releases/download/praga-2027/cover.jpg?v=1794740480"
     }
   ],
   "apka": {
     "kod": 38,
     "nazwa": "0.1.37",
-    "data": "2026-11-15",
+    "data": "2026-11-20",
     "url": "https://github.com/tomaszklin/on-the-road/releases/download/app-v0.1.37/on-the-road-0.1.37.apk"
   }
 }
